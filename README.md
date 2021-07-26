@@ -10,3 +10,4 @@ Rohith - Developer
 J. Sri Harshavardhan - Developer
 K. Pavan Kalyan - Developer
 
+Key Competencies:3D Printing, EMG Sensor, MYOWARE sensor, servo motors
