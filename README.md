@@ -11,3 +11,7 @@ J. Sri Harshavardhan - Developer
 K. Pavan Kalyan - Developer
 
 Key Competencies:3D Printing, EMG Sensor, MYOWARE sensor, servo motors
+
+Client : Sreyas Institute of Engineering and Technology
+
+Location : Innovatio Hub(Robotics Research Center)
