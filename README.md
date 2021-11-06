@@ -9,7 +9,7 @@ N. Vinod Kumar Reddy - Design Head,
 Shaik Jan Saida - Operations and team management,
 Rajashekar - System Engineer,
 Shashikanth - Trainer,
-Sai Teja. G - Developer, 
+Sai Teja. G - Product Developer and Team Lead, 
 Rohith - Developer, 
 J. Sri Harshavardhan - Developer, 
 K. Pavan Kalyan - Developer
