@@ -1,4 +1,4 @@
-# prosthetic-robotic-arm
+# Prosthetic-Robotic-Arm
 Medical Project
 Prosthetic arm is an industrial project that was developed to specifically serve the medical industry. The aim of the project is to develop a new self-contained prosthetic hand to be used by the amputees. The prosthetic hand will resemble the human hand in size and shape and will perform like a human hand. The movement of fingers is achieved by using servo motors connected to each finger individually. To get a feel of a real human hand, EMG (electromyogram) sensors are used that move the muscles to control the movemnet of the bonic hand. 
 
